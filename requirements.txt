@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+google-genai
+firebase-admin
+google-adk
+apscheduler
+python-multipart
